@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**alexanderczigler/alexanderczigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught software developer currently working as a backend engineer at @iteam1337 in Stockholm.
 
-Here are some ideas to get you started:
+My passion for software and the web began in the late 90's when I started learning basic HTML and making homepages. When I got DSL in the early 00's I built my first server and started learning about linux and setting up networks, web servers and firewalls. Since then I have been learning more and more all the time by continuous exploration and by surrounding myself with talented people who inspire me to learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- Connect with me on [LinkedIn](https://linkedin.com/in/alexanderczigler)
+- Email me at [nfo@ilix.se](mailto:nfo@ilix.se)
+
+## Related
+
+- [Duolingo](https://www.duolingo.com/profile/alexanderczigler)
+- [Goodreads](https://goodreads.com/alexanderczigler)
+- [SoundCloud](https://soundcloud.com/alexanderczigler)
+- [Strava]()
